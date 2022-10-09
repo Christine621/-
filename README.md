@@ -17,4 +17,4 @@
 ![甘特圖](甘特圖.jpg "甘特圖")
 
 ### PERT/CPM 圖
-![PERT](PERT.jpg "PERT")
+![pert](pert.jpg "pert")
