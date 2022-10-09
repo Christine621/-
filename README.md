@@ -14,7 +14,7 @@
 #### 內容:利用Python設計出訂購系統，了解系統的運作與分析
 
 ### 甘特圖
-![甘特圖](甘特圖.jpeg "甘特圖")
+![甘特圖](甘特圖.jpg "甘特圖")
 
 ### PERT/CPM 圖
-![PERT](PERT.jpeg "PERT")
+![PERT](PERT.jpg "PERT")
