@@ -42,7 +42,7 @@
 4.	管理者可藉由管理庫存功能來確認庫存數量
 
 ### 使用案例圖
-![usecase](usecase.jpg "usecase")
+![usecase](usecase.JPG "usecase")
 
 |   使用案例分析   |  登入系統   |
 | :--------|:-------|
