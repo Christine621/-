@@ -75,7 +75,7 @@
 
 
 #### Figma 設計圖
-#### https://www.figma.com/file/LIyzgbbLlq2BSIDNabNEDU/Untitled?node-id=18%3A7
+[Figma](https://www.figma.com/proto/rrU6Kj7jmiKSfxfNsO9LAB/Untitled?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3)
 
 #### DFD 設計圖
 ![DFD](DFD.jpg "DFD")
