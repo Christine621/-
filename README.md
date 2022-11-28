@@ -109,3 +109,6 @@
 
 #### 管理庫存 循序圖
 ![循序圖3](循序圖3.png "循序圖3")
+
+#### Figma 畫面設計
+[Figma](https://www.figma.com/proto/rrU6Kj7jmiKSfxfNsO9LAB/Untitled?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3)
