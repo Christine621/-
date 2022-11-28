@@ -74,8 +74,8 @@
 | 假設 | 無 |
 
 
-#### Figma 設計圖
-[Figma](https://www.figma.com/proto/rrU6Kj7jmiKSfxfNsO9LAB/Untitled?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3)
+#### Figma
+#### https://www.figma.com/file/LIyzgbbLlq2BSIDNabNEDU/Untitled?node-id=0%3A1&t=xdO6J7xNhq0w6K86-0
 
 #### DFD 設計圖
 ![DFD](DFD.jpg "DFD")
@@ -89,6 +89,7 @@
 #### DFD 圖0 設計圖3
 ![DFD3](DFD3.png "DFD3")
 
+### w8 hw4
 #### UML
 ![UML](UML.png "UML")
 
@@ -110,5 +111,30 @@
 #### 管理庫存 循序圖
 ![循序圖3](循序圖3.png "循序圖3")
 
-#### Figma 畫面設計
-[Figma](https://www.figma.com/proto/rrU6Kj7jmiKSfxfNsO9LAB/Untitled?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3)
+### w11 hw5
+#### Figma
+[Figma 畫面設計](https://www.figma.com/proto/rrU6Kj7jmiKSfxfNsO9LAB/Untitled?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3)
+
+#### storyboard1
+![storyboard1](storyboard1.png "storyboard1")
+
+#### storyboard2
+![storyboard2](storyboard2.png "storyboard2")
+
+#### storyboard3
+![storyboard3](storyboard3.png "storyboard3")
+
+#### storyboard4
+![storyboard4](storyboard4.png "storyboard4")
+
+#### storyboard5
+![storyboard5](storyboard5.png "storyboard5")
+
+#### storyboard6
+![storyboard6](storyboard6.png "storyboard6")
+
+#### storyboard7
+![storyboard7](storyboard7.png "storyboard7")
+
+#### storyboard8
+![storyboard8](storyboard8.png "storyboard8")
