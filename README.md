@@ -115,26 +115,16 @@
 #### Figma
 [Figma 畫面設計](https://www.figma.com/proto/rrU6Kj7jmiKSfxfNsO9LAB/Untitled?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3)
 
-#### storyboard1
+#### storyboard
 ![storyboard1](storyboard1.png "storyboard1")
-
-#### storyboard2
 ![storyboard2](storyboard2.png "storyboard2")
-
-#### storyboard3
 ![storyboard3](storyboard3.png "storyboard3")
-
-#### storyboard4
 ![storyboard4](storyboard4.png "storyboard4")
-
-#### storyboard5
 ![storyboard5](storyboard5.png "storyboard5")
-
-#### storyboard6
 ![storyboard6](storyboard6.png "storyboard6")
-
-#### storyboard7
 ![storyboard7](storyboard7.png "storyboard7")
-
-#### storyboard8
 ![storyboard8](storyboard8.png "storyboard8")
+
+#### w12 hw6
+#### ERD
+![ERD](ERD.png "ERD")
